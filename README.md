@@ -5,7 +5,7 @@ This repository contains two versions of the Supervised Learning - Univariate Li
 - **`supervised_learning_univariate_linear_regression.ipynb`** — the original version of the project.
 - **`review.ipynb`** — the review version, containing additional information and broken-down visualizations to aid understanding.
 
-## How Line Fitting Works
+## Notebook Workflow
 
 In the notebook, line fitting is achieved through the following steps:
 
