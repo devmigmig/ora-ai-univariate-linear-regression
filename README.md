@@ -4,3 +4,14 @@ This repository contains two versions of the Supervised Learning - Univariate Li
 
 - **`supervised_learning_univariate_linear_regression.ipynb`** — the original version of the project.
 - **`review.ipynb`** — the review version, containing additional information and broken-down visualizations to aid understanding.
+
+## How Line Fitting Works
+
+In the notebook, line fitting is achieved through the following steps:
+
+- Generating synthetic data (`X`, `Y`) with a linear relationship (`Y = 2X + 1`) plus some added noise.
+- Defining a function, `plot_linear_regression`, that takes two parameters: `slope` and `intercept`.
+- Inside the function, computing the predicted `Y` values using the linear equation:
+  - `predicted_Y = slope * X + intercept`
+- Calculating the mean squared error (loss) between the predicted and actual `Y` values.
+- Plotting the data points alongside the fitted regression line, with the resulting loss value displayed on the chart.
