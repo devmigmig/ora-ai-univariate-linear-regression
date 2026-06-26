@@ -1,9 +1,10 @@
 # Univariate Linear Regression
 
-This repository contains two versions of the Supervised Learning - Univariate Linear Regression Project:
+This repository contains three versions of the Supervised Learning - Univariate Linear Regression Project:
 
-- **`supervised_learning_univariate_linear_regression.ipynb`** — the original version of the project.
-- **`review.ipynb`** — the review version, containing additional information and broken-down visualizations to aid understanding.
+- **supervised_learning_univariate_linear_regression.ipynb** — the original version of the project.
+- **review.ipynb** — the review version, containing additional information and broken-down visualizations to aid understanding.
+- **interactive.ipynb** — an interactive version where the user can input a value for X and adjust the slope and intercept in real time to see how predictions change.
 
 ## Notebook Workflow
 
